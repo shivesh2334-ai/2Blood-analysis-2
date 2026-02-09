@@ -1,0 +1,6 @@
+streamlit
+PyPDF2
+pillow
+pytesseract
+pandas
+regex
