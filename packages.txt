@@ -1,3 +1,1 @@
 tesseract-ocr
-libtesseract-dev          # Optional but helps with some builds
-tesseract-ocr-eng         # English language pack (add others like tesseract-ocr-hin if needed for Hindi/others)
