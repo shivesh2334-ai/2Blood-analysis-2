@@ -1,0 +1,9 @@
+# requirements.txt for Streamlit Blood Analysis App
+# Place this file in the root of your GitHub repository alongside app.py
+
+streamlit>=1.30.0          # Core Streamlit framework (use a recent version for stability)
+PyPDF2>=3.0.0              # For PDF text extraction
+pillow>=10.0.0             # PIL fork - required for image handling and pytesseract
+pytesseract>=0.3.13        # OCR wrapper for extracting text from images (latest as of 2024/2025)
+pandas>=2.0.0              # For creating and displaying tables/DataFrames
+regex>=2023.12.25          # For advanced regular expressions in parsing (re module is built-in, but regex is more powerful)
